@@ -9,5 +9,5 @@ Nyttige links:
 
 ## Eksempel formatering:
 
-1.*Kursiv* tekst.
-2. **Fed** tekst.
+1.*italics* text.
+2. **bold** text.
