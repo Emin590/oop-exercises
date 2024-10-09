@@ -9,7 +9,7 @@ Nyttige links:
 
 ## Eksempel formatering:
 
-1.*italics* highlighting.
-2. **bold** highlighting.
+1.*italics* format.
+2. **bold** format.
 
 
