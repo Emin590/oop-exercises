@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\bin\Debug\net8.0\circleAreaCalc.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\bin\Debug\net8.0\circleAreaCalc.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\bin\Debug\net8.0\circleAreaCalc.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\bin\Debug\net8.0\circleAreaCalc.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\bin\Debug\net8.0\circleAreaCalc.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\circleAreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\circleAreaCalc.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\circleAreaCalc.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\circleAreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\circleAreaCalc.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\circleAreaCalc.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\refint\circleAreaCalc.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\circleAreaCalc.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\circleAreaCalc.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\circleAreaCalc\obj\Debug\net8.0\ref\circleAreaCalc.dll

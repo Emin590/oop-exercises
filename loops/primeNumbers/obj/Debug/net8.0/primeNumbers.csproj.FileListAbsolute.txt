@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\primeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\primeNumbers.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\primeNumbers.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\primeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\primeNumbers.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\bin\Debug\net8.0\primeNumbers.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\bin\Debug\net8.0\primeNumbers.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\bin\Debug\net8.0\primeNumbers.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\bin\Debug\net8.0\primeNumbers.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\bin\Debug\net8.0\primeNumbers.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\primeNumbers.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\refint\primeNumbers.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\primeNumbers.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\primeNumbers.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\primeNumbers\obj\Debug\net8.0\ref\primeNumbers.dll
