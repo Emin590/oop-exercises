@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("celsiusConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a94a2796f49809579433b86726e56b0fefa50c8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b5b45b0aa7a76abcc6345ef53f53dbcfe837a7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("celsiusConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("celsiusConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
