@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\bin\Debug\net8.0\dailyTempDiff.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\bin\Debug\net8.0\dailyTempDiff.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\bin\Debug\net8.0\dailyTempDiff.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\bin\Debug\net8.0\dailyTempDiff.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\bin\Debug\net8.0\dailyTempDiff.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\dailyTempDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\dailyTempDiff.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\dailyTempDiff.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\dailyTempDiff.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\dailyTempDiff.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\dailyTempDiff.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\refint\dailyTempDiff.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\dailyTempDiff.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\dailyTempDiff.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\dailyTempDiff\obj\Debug\net8.0\ref\dailyTempDiff.dll

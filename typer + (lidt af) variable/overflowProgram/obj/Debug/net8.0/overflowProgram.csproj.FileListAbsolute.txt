@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\overflowProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\overflowProgram.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\overflowProgram.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\overflowProgram.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\overflowProgram.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\bin\Debug\net8.0\overflowProgram.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\bin\Debug\net8.0\overflowProgram.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\bin\Debug\net8.0\overflowProgram.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\bin\Debug\net8.0\overflowProgram.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\bin\Debug\net8.0\overflowProgram.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\overflowProgram.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\refint\overflowProgram.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\overflowProgram.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\overflowProgram.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\overflowProgram\obj\Debug\net8.0\ref\overflowProgram.dll

@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\incrementMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\incrementMonth.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\incrementMonth.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\incrementMonth.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\incrementMonth.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\bin\Debug\net8.0\incrementMonth.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\bin\Debug\net8.0\incrementMonth.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\bin\Debug\net8.0\incrementMonth.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\bin\Debug\net8.0\incrementMonth.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\bin\Debug\net8.0\incrementMonth.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\incrementMonth.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\refint\incrementMonth.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\incrementMonth.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\incrementMonth.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\variable\incrementMonth\obj\Debug\net8.0\ref\incrementMonth.dll

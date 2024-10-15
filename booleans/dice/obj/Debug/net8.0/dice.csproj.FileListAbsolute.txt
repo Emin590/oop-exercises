@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\bin\Debug\net8.0\dice.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\bin\Debug\net8.0\dice.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\bin\Debug\net8.0\dice.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\bin\Debug\net8.0\dice.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\bin\Debug\net8.0\dice.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\dice.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\dice.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\dice.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\dice.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\dice.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\refint\dice.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\dice.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\dice.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\booleans\dice\obj\Debug\net8.0\ref\dice.dll

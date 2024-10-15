@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\celsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\celsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\celsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\celsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\celsiusToFahrenheit.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\bin\Debug\net8.0\celsiusToFahrenheit.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\bin\Debug\net8.0\celsiusToFahrenheit.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\bin\Debug\net8.0\celsiusToFahrenheit.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\bin\Debug\net8.0\celsiusToFahrenheit.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\bin\Debug\net8.0\celsiusToFahrenheit.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\celsiusToFahrenheit.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\refint\celsiusToFahrenheit.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\celsiusToFahrenheit.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\celsiusToFahrenheit.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\celsiusToFahrenheit\obj\Debug\net8.0\ref\celsiusToFahrenheit.dll

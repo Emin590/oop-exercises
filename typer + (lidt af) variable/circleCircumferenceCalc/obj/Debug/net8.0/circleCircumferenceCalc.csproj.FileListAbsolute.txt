@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\circleCircumferenceCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\circleCircumferenceCalc.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\circleCircumferenceCalc.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\circleCircumferenceCalc.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\circleCircumferenceCalc.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\bin\Debug\net8.0\circleCircumferenceCalc.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\bin\Debug\net8.0\circleCircumferenceCalc.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\bin\Debug\net8.0\circleCircumferenceCalc.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\bin\Debug\net8.0\circleCircumferenceCalc.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\bin\Debug\net8.0\circleCircumferenceCalc.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\circleCircumferenceCalc.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\refint\circleCircumferenceCalc.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\circleCircumferenceCalc.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\circleCircumferenceCalc.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\5-typer\circleCircumferenceCalc\obj\Debug\net8.0\ref\circleCircumferenceCalc.dll
