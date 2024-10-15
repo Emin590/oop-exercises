@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\celsiusConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\celsiusConverter.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\celsiusConverter.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\celsiusConverter.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\celsiusConverter.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\bin\Debug\net8.0\celsiusConverter.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\bin\Debug\net8.0\celsiusConverter.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\bin\Debug\net8.0\celsiusConverter.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\bin\Debug\net8.0\celsiusConverter.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\bin\Debug\net8.0\celsiusConverter.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\celsiusConverter.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\refint\celsiusConverter.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\celsiusConverter.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\celsiusConverter.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\loops\celsiusConverter\obj\Debug\net8.0\ref\celsiusConverter.dll

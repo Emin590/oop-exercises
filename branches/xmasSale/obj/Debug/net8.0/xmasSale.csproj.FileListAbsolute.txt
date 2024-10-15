@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\bin\Debug\net8.0\xmasSale.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\bin\Debug\net8.0\xmasSale.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\bin\Debug\net8.0\xmasSale.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\bin\Debug\net8.0\xmasSale.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\bin\Debug\net8.0\xmasSale.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\xmasSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\xmasSale.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\xmasSale.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\xmasSale.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\xmasSale.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\xmasSale.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\refint\xmasSale.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\xmasSale.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\xmasSale.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\xmasSale\obj\Debug\net8.0\ref\xmasSale.dll

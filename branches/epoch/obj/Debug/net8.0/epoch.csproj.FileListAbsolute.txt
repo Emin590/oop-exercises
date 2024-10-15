@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\bin\Debug\net8.0\epoch.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\bin\Debug\net8.0\epoch.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\bin\Debug\net8.0\epoch.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\bin\Debug\net8.0\epoch.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\bin\Debug\net8.0\epoch.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\epoch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\epoch.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\epoch.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\epoch.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\epoch.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\epoch.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\refint\epoch.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\epoch.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\epoch.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\branches\epoch\obj\Debug\net8.0\ref\epoch.dll
