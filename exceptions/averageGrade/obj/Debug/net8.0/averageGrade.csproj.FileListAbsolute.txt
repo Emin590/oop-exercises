@@ -1,0 +1,15 @@
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\averageGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\averageGrade.AssemblyInfoInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\averageGrade.AssemblyInfo.cs
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\averageGrade.csproj.CoreCompileInputs.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\averageGrade.sourcelink.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\bin\Debug\net8.0\averageGrade.exe
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\bin\Debug\net8.0\averageGrade.deps.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\bin\Debug\net8.0\averageGrade.runtimeconfig.json
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\bin\Debug\net8.0\averageGrade.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\bin\Debug\net8.0\averageGrade.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\averageGrade.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\refint\averageGrade.dll
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\averageGrade.pdb
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\averageGrade.genruntimeconfig.cache
+C:\Users\Emin5\SDU\OOP\oop-exercises\exceptions\averageGrade\obj\Debug\net8.0\ref\averageGrade.dll
